@@ -1,0 +1,17 @@
+# lista de comandos do git
+
+## definir usuario e email
+git config --global user.name "Paulo Martins Machado"
+
+git config --global user.email PauloMMachado2003@gmail.com
+
+## Pastas
+
+### criar pastas no terminal
+mkdir nome-da-pasta
+
+### entrar na pasta
+cd nome-da-pasta
+
+### transformar pasta em repositorio (só faz uma vez)
+git init
